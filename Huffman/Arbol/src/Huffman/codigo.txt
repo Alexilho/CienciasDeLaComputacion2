@@ -1,0 +1,1 @@
+dot -Tpng grafica.dot -o grafica.png
